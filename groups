@@ -1,3 +1,4 @@
 # UUID                                                                      	Group Name
 #
+e931a15bd6da57436725083461bef735ebec4b57                                    	saml/oran-gerrit-gnb-int-src-committers
 ldap:cn=oran-gerrit-gnb-int-src-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-gnb-int-src-committers
